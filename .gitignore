@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.venv/
+*.duckdb
+*.duckdb.wal
+node_modules/
+dist/
+*.tsbuildinfo
+.env
